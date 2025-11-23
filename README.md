@@ -1,6 +1,8 @@
 # 🚚 Cyber Truck (RC Car with Bluetooth Control) 📱
 
-<img src="Cyber_Truck.jpg" alt="Cyber Truck" width="70%"/>
+<p align="center">
+  <img src="Cyber_Truck.jpg" alt="Cyber Truck" width="100%"/>
+</p>
 
 - **Description**: A sleek, futuristic RC car inspired by Tesla's Cyber Truck 🚀. This vehicle is controlled via a custom app built using MIT App Inventor, connecting seamlessly via Bluetooth 📲.
 - **Features**:
